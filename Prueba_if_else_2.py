@@ -6,3 +6,4 @@ else:
     numero_usuario < numero_ganador
     numero_usuario > numero_ganador
     print("Has perdido, lo siento mucho.")
+
